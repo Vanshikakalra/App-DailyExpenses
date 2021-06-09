@@ -1,0 +1,8 @@
+milk.40
+butter.50
+cake.10
+onions.20
+
+
+pasta.30
+rice.80
